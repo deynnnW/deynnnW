@@ -7,3 +7,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,discord&theme=dark" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" style="border-radius: 12px;"/>
+</p>
