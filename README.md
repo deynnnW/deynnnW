@@ -1,6 +1,6 @@
-<!-- Мрачная анимированная шапка с ником deynnnW -->
+<!-- Мрачная прямоугольная шапка: deynnnW -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f172a,100:020617&height=220&section=header&text=deynnnW&fontSize=80&fontColor=f8fafc&animation=fadeIn&fontAlignY=45" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f172a,100:020617&height=180&text=deynnnW&fontSize=75&fontColor=f8fafc&animation=fadeIn&fontAlignY=50" width="100%"/>
 </p>
 
 <!-- Иконки технологий: Python, C++, Java, HTML, CSS, Discord -->
@@ -10,9 +10,23 @@
 
 <br/>
 
+<!-- Твоя картинка по центру -->
+<p align="center">
+  <img src="./cover.jpg" width="320" style="border-radius: 8px;" alt="mood" />
+</p>
+
+<br/>
+
 <!-- Трек: AsPaFdS — Jump! -->
 <p align="center">
   <a href="https://music.yandex.ru/album/33327694/track/131228623" target="_blank">
     <img src="https://img.shields.io/badge/▶%20Now%20Playing-AsPaFdS%20--%20Jump!-111827?style=for-the-badge&logo=yandexmusic&logoColor=FC3F1D&labelColor=030712" />
   </a>
+</p>
+
+<br/>
+
+<!-- Нижняя подпись: no info -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=4000&pause=1000&color=64748B&background=00000000&center=true&vCenter=true&width=150&lines=no+info" alt="no info" />
 </p>
