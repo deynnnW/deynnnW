@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0f172a,100:020617&height=180&text=deynnnW&fontSize=75&fontColor=f8fafc&animation=fadeIn&fontAlignY=50" width="100%"/>
 </p>
 
-<!-- Иконки технологий: Python, C++, Java, HTML, CSS, Discord -->
+<!-- Иконки технологий (НЕ КЛИКАБЕЛЬНЫЕ) -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,discord&theme=dark" />
 </p>
@@ -12,7 +12,7 @@
 
 <!-- Твоя картинка по центру -->
 <p align="center">
-  <img src="./cover.jpg" width="320" style="border-radius: 8px;" alt="mood" />
+  <img src="./cover.jpg" width="320" alt="mood" />
 </p>
 
 <br/>
