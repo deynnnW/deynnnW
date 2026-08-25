@@ -1,6 +1,6 @@
-<!-- Атмосферная шапка с твоим фото и ником deynnnW -->
+<!-- Атмосферная готическая шапка deynnnW -->
 <p align="center">
-  <img src="./header.png" width="100%" style="border-radius: 6px;" alt="deynnnW" />
+  <img src="./banner.png" width="100%" style="border-radius: 6px;" alt="deynnnW" />
 </p>
 
 <!-- Иконки технологий -->
